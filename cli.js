@@ -2,7 +2,7 @@
 
 'use strict';
 
-var mios = require('./mios');
+var mios = require('./lib/mios');
 
 var userArgs = process.argv;
 var searchParam = userArgs[2];
